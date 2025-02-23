@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rakesh and I'm a student  from REC</p>
+<p align="left">Rakesh here looking for new challenges and opportunities to grow, collaborate, and contribute to innovative projects.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ### Programming Languages Known
 
-<h2 align="left">I code with JAVA , PYTHON , C</h2>
+<h3 align="left">I code with JAVA , PYTHON , C</h3>
 
 
 ## 📫 Let's Connect  
