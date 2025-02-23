@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2005...<br>📚 I'm currently learning B.E Computer Science And Engineering...<br>🎯 Goals: Become an aspiring Engineer ...<br>🎲 ⚰️ "You think NullPointerException is the worst? Wait until you meet ConcurrentModificationException." ...</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with JAVA , PYTHON , C</h2>
 
 ###
 
